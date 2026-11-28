@@ -1,0 +1,1 @@
+[{"id":23282,"ts":1795791600000,"agent_id":"bollinger_reversion-af95687a","agent_name":"Dario el Elástico","symbol":"spot:BTC","side":"buy","qty":0.1686183,"price":59246.29689,"notional":9990.00999000999,"fee":9.990009990009991,"kind":"signal","realized_pnl":null,"reason":"BTC bajo la banda inferior de Bollinger (2,0σ)"}]

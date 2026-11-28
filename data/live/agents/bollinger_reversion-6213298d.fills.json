@@ -1,0 +1,1 @@
+[{"id":23280,"ts":1795791600000,"agent_id":"bollinger_reversion-6213298d","agent_name":"Beto el Rebote","symbol":"spot:ETH","side":"buy","qty":6.03297498,"price":1655.901114,"notional":9990.00999000999,"fee":9.990009990009991,"kind":"signal","realized_pnl":null,"reason":"ETH bajo la banda inferior de Bollinger (2,0σ)"}]

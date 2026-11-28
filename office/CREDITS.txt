@@ -1,0 +1,4 @@
+People and animations in the 3D office ("La sala"):
+- Universal Base Characters [Standard] by Quaternius — CC0 1.0 — https://quaternius.com/packs/universalbasecharacters.html
+- Universal Animation Library [Standard] by Quaternius — CC0 1.0 — https://quaternius.com/packs/universalanimationlibrary.html
+Optimized with scripts/build-office-assets.mjs (subset of clips and hairstyles, simplified meshes, WebP textures, meshopt).

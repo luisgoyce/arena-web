@@ -1,0 +1,1 @@
+[{"id":23279,"ts":1795791600000,"agent_id":"bollinger_reversion-31c07419","agent_name":"Ana la Contraria","symbol":"spot:BTC","side":"buy","qty":0.1686183,"price":59246.29689,"notional":9990.00999000999,"fee":9.990009990009991,"kind":"signal","realized_pnl":null,"reason":"BTC bajo la banda inferior de Bollinger (2,5σ)"}]
